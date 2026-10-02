@@ -1,0 +1,2 @@
+requests>=2.31,<3
+opencv-python>=4.8,<5
